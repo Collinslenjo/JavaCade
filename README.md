@@ -1,3 +1,3 @@
-# JavaCade
-> java code kingdom
-> Invoice Management and Billing system
+# Invoice Management and billing
+
+> Flexible Simple Invoice Management and Billing system.
