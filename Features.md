@@ -32,3 +32,11 @@ Reports - sales by customer, by product, total taxes, and more.
 
 > the most import is that is free and open source software, meaning that there will never be charges for the software, it'll always be free in cost and free/open in development. What really powers Simple Invoices is not some amazing code its the license that its released under that enables the openness of development and the community that are dedicated to creating the best invoicing system possible.
 > Most commercial invoicing systems are designed and built in grey corporate offices being coded by subjugated developers, run by bosses with their eyes only on the bottom line. Simple Invoices and free software turns this non-sense on its head - here an invoicing system is made by and for people who want the best invoicing system possible, who are really into invoicing and work because we want to not because we have to.
+
+  - Generate an Invoice
+  - Send an Invoice to an Email with a paypal/GetPaid pay button
+  - Payment system intergrated (Paypal/GetPaid)
+  - Autosend Invoice according to the set date (queing and reccurring invoices)
+  - Generation of Receipts after receiving payment
+  - Keeps track of all the invoices sent via the system
+  - Generates a report of all the payments you have into pdf/csv
