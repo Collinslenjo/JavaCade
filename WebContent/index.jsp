@@ -13,7 +13,7 @@
 	<div class="container-fluid">
 	  <div class="row">
 		  <div class="col-md-12">
-			<h3>Invoice Management system</h3>
+			<h3>Invoice Management</h3>
 			<div class="content">
 			  <h3 class="align-center">Features</h3>
 				<ul>
