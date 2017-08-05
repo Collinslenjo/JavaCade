@@ -17,9 +17,15 @@
 	<div class="body">
 		<p class="paragraph">
 		<strong>Here is where all the payments will occur</strong>
+		<ul>
+			<li>All invoices Will redirect to this page for payments</li>
+			<li>We will charge from here</li>
+			<li>There will be subscription plans for invioce templating on this page</li>
+		</ul>
 		</p>
 	</div>
 </div>
+
 <script src="${pageContext.request.contextPath}/js/customscript.js"></script>
 </body>
 </html>
