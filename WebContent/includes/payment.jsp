@@ -16,10 +16,7 @@
 	<hr>
 	<div class="body">
 		<p class="paragraph">
-		<strong>Here is where all the content will appear</strong>
-		Lorem Ipsum dolor amiset whatever, Lorem Ipsum dolor amiset whatever
-		Lorem Ipsum dolor amiset whatever, Lorem Ipsum dolor amiset whatever
-		Lorem Ipsum dolor amiset whatever, Lorem Ipsum dolor amiset whatever.
+		<strong>Here is where all the payments will occur</strong>
 		</p>
 	</div>
 </div>
