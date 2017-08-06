@@ -1,3 +1,3 @@
-# Invoice Management and billing
+# Invoice Management and Billing
 
 > Flexible Simple Invoice Management and Billing system.
