@@ -1,6 +1,6 @@
 ## Features
 
-> Simple Invoices focuses on the basic needs of invoicing yet gives users advanced flexibility without compromising simplicity.
+Simple Invoices focuses on the basic needs of invoicing yet gives users advanced flexibility without compromising simplicity.
 
 ##### Quick look at what Simple Invoices can do
 
