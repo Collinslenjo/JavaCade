@@ -40,3 +40,6 @@ Reports - sales by customer, by product, total taxes, and more.
   - Generation of Receipts after receiving payment
   - Keeps track of all the invoices sent via the system
   - Generates a report of all the payments you have into pdf/csv
+ 
+
+[#stolenFeatures]
